@@ -1,0 +1,51 @@
+body{
+    background-image: url(./img/makebetter.png);
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 50px;
+}
+
+p1{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 150px;
+}
+
+p2{
+    color: white;
+    position: absolute;
+    top: 225px;
+   }
+
+   p3{
+    color: white;
+    position: absolute;
+    top: 300px;
+   }
+
+   #minha_foto{
+    height: 200px;
+    width: 200px;
+    border-radius:200px;
+    position: absolute;
+    left: 680px;
+    top: 130px;
+   }
+ h3{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 250px;
+
+ }
+ p3{
+    color: white;
+    position: absolute;
+    top: 380px;
+
+ }
